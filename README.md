@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Ebert Soares
 
-**`Desenvolvedor FullStack`**
+**`Software Engineer Student`**
 
-Tenho 18 anos, sou natural de Salvador/BA e atualmente curso Engenharia de Software na UniFTC. Sou apaixonado por tecnologia e estou construindo minha trajetória na área de desenvolvimento, estudando principalmente Java e explorando o mundo do desenvolvimento Full Stack. Busco sempre aprender novas ferramentas, melhorar minhas habilidades e contribuir com projetos que possam gerar impacto real. Aqui no meu GitHub você vai encontrar meus estudos, projetos, desafios e a evolução da minha jornada como desenvolvedor. Sempre aprendendo e evoluindo!
+Tenho 18 anos, sou natural de Salvador/BA e atualmente curso Engenharia de Software na UniFTC. Sou apaixonado por tecnologia e estou construindo minha trajetória na área de desenvolvimento, estudando principalmente Java e explorando o mundo do desenvolvimento Backend. Busco sempre aprender novas ferramentas, melhorar minhas habilidades e contribuir com projetos que possam gerar impacto real. Aqui no meu GitHub você vai encontrar meus estudos, projetos, desafios e a evolução da minha jornada como desenvolvedor. Sempre aprendendo e evoluindo!
 
 
 
@@ -76,24 +76,3 @@ Tenho 18 anos, sou natural de Salvador/BA e atualmente curso Engenharia de Softw
 />
 
 <br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EbertSoares&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbertSoares&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
