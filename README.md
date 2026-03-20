@@ -2,7 +2,7 @@
 
 **`Software Engineer Student`**
 
-Tenho 18 anos, sou natural de Salvador/BA e atualmente curso Engenharia de Software na UCSaL.
+Tenho 18 anos, sou natural de Salvador/BA e pretendo cursar Engenharia de Software na UCSaL.
 
 
 
