@@ -1,29 +1,32 @@
-# 👩🏻‍💻 Ebert Soares
+<div align="center">
 
-**`Software Engineer Student`**
+# VERTEX | Sites e Sistemas
 
-Tenho 18 anos, sou natural de Salvador/BA e pretendo cursar Engenharia de Software na UCSaL.
+### Desenvolvimento digital estratégico para empresas que querem presença, estrutura e resultado.
 
+</div>
 
+---
 
-### 🤖 Linguagens e Tecnologias
+## Sobre a VERTEX
 
+A **VERTEX | Sites e Sistemas** é uma empresa especializada na criação de soluções digitais profissionais para negócios que desejam se posicionar melhor, vender mais e operar com mais eficiência no ambiente online.
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
+Desenvolvemos projetos sob medida, unindo **design, tecnologia, performance e estratégia** para transformar ideias em plataformas digitais modernas, funcionais e preparadas para crescimento.
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
+Nosso foco não é apenas criar sites bonitos. Criamos estruturas digitais pensadas para gerar confiança, melhorar a experiência do cliente e fortalecer a presença da marca no mercado.
+
+---
+
+## O que fazemos
+
+```txt
+Sites Institucionais
+Landing Pages
+E-commerces
+Sistemas Web
+Painéis Administrativos
+Catálogos Online
+Integrações com APIs
+Automações para Negócios
+Soluções Digitais Personalizadas
