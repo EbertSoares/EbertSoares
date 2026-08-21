@@ -44,10 +44,6 @@ Atualmente em busca de uma oportunidade de **estágio em desenvolvimento backend
 
 ---
 
-### 📊 GitHub Stats
-
----
-
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebert-soares/)
